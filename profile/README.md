@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/111809392/205326221-6542a55f-fae2-4ece-982f-0b9598f4f08c.png" height="50"/>  SorHive 프로젝트 
-공간을 통해 일상을 연결하는 플랫폼 <br>
-<b>진행 기간</b>: 2022.10.05 ~ 2022.12.01 <br>
+<b>공간을 통해 일상을 연결하는 플랫폼</b><br>
+<b>진행 기간</b>: 2022.10.05 ~ 2022.12.01 <br><br>
 <img src="https://user-images.githubusercontent.com/111809392/205321871-c7de56fd-34cc-4a74-9f22-189ec16f87fe.png" height="300"/>
 
 # Repositories
