@@ -10,9 +10,9 @@
   - [추천 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Recommend-Batch)
   - [라이핑 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Lifing-Batch)
 - [SorHive AI]
-  - [space classification](https://github.com/MA-Dot-COM/AI-space_classification)
-  - [friend and feed recommend](https://github.com/MA-Dot-COM/AI-friendfeed_recommend)
-  - [avatar generation](https://github.com/MA-Dot-COM/AI-avatar_generation)
+  - [<b>공간 분류</b>](https://github.com/MA-Dot-COM/AI-space_classification)
+  - [친구 및 피드 추천](https://github.com/MA-Dot-COM/AI-friendfeed_recommend)
+  - [아바타 생성](https://github.com/MA-Dot-COM/AI-avatar_generation)
 <br>
 
 # 주요기능
