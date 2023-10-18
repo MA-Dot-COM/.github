@@ -1,11 +1,19 @@
 # <img src="https://user-images.githubusercontent.com/111809392/205326221-6542a55f-fae2-4ece-982f-0b9598f4f08c.png" height="50"/>  SorHive 프로젝트 
-
-## 공간을 통해 일상을 연결하는 플랫폼
+공간을 통해 일상을 연결하는 플랫폼
+<b>진행 기간</b>: 2022.10.05 ~ 2022.12.01
 <img src="https://user-images.githubusercontent.com/111809392/205321871-c7de56fd-34cc-4a74-9f22-189ec16f87fe.png" height="300"/>
 
-# Contents
-- [Development-Record](https://github.com/MA-Dot-COM/Intro/wiki/Development-Record)
-- [참고자료](https://github.com/MA-Dot-COM/Intro/wiki/%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C)
+# Repositories
+- [SorHive Unity](https://github.com/MA-Dot-COM/SORHIVE_unity)
+- [SorHive BackEnd]
+  - [서버](https://github.com/MTVS-DeepRoadAI/deeproad-licenseplate_detection_recognition)
+  - [추천 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Recommend-Batch)
+  - [라이핑 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Lifing-Batch)
+- [SorHive AI]
+  - [space classification](https://github.com/MA-Dot-COM/AI-space_classification)
+  - [friend and feed recommend](https://github.com/MA-Dot-COM/AI-friendfeed_recommend)
+  - [avatar generation](https://github.com/MA-Dot-COM/AI-avatar_generation)
+<br>
 
 # 주요기능
 - 자신의 일상을 담을 수 있는 페이지
@@ -178,18 +186,6 @@
 
 </div>
 </details>
-
-# Relate Projects Link
-## Backend
-- [백엔드 메인 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Back-End)
-- [라이핑 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Lifing-Batch)
-- [추천 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Recommend-Batch)
-## Frontend
-- [Unity](https://github.com/MA-Dot-COM/SORHIVE_unity)
-## AI
-- [AI 관련 레포지토리](https://github.com/MA-Dot-COM/AI-space_classification)
-- [AI 친구 피드](https://github.com/MA-Dot-COM/AI-friendfeed_recommend)
-- [아바타 생성 모델](https://github.com/MA-Dot-COM/AI-avatar_generation)
 
 # Author
 - 박찬영(AI) - [GitHub](https://github.com/orgs/MA-Dot-COM/people/Jneck)
