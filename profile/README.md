@@ -4,9 +4,9 @@
 <img src="https://user-images.githubusercontent.com/111809392/205321871-c7de56fd-34cc-4a74-9f22-189ec16f87fe.png" height="300"/>
 
 # Repositories
-- [SorHive Unity](https://github.com/MA-Dot-COM/SORHIVE_unity)
+- [<b>SorHive Unity</b>](https://github.com/MA-Dot-COM/SORHIVE_unity)
 - [SorHive BackEnd]
-  - [서버](https://github.com/MTVS-DeepRoadAI/deeproad-licenseplate_detection_recognition)
+  - [<b>서버</b>](https://github.com/MTVS-DeepRoadAI/deeproad-licenseplate_detection_recognition)
   - [추천 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Recommend-Batch)
   - [라이핑 배치 서버](https://github.com/MA-Dot-COM/MA-Dot-COM-Lifing-Batch)
 - [SorHive AI]
